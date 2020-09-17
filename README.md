@@ -1,4 +1,4 @@
-# MiceProteinClassificationML
+# MiceProtein_MLClassification
 Repo for Machine Learning Projects
 
 Predictive Modelling of Mice Protein Expression 
